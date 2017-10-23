@@ -11,7 +11,7 @@ I assumed that the user would input their purchases one by one in the order of t
 
 ## Authors
 
-* **Patrick McDonough
+* Patrick McDonough
 
 ## License
 
